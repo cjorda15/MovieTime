@@ -17,7 +17,7 @@
 }
 
 .not-favorite img, .favorite img {
-  height:300px;
+  height:400px;
   width: 300px;
   opacity:.85;
   border-radius: 5px;
@@ -27,8 +27,8 @@
   opacity: 1;
   border-radius: 14px;
   transition: all .3s;
-  width:303px;
-  height:303px;
+  width:300px;
+  height:395px;
 }
 
 .button-favorite {
